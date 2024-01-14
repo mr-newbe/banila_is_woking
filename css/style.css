@@ -1,0 +1,17 @@
+.hidden{
+	display: none;
+}
+
+html{
+	color: white;
+	text-align: center;
+	font-size: 30px;
+
+}
+
+body{
+	margin-top: 10%;
+	background-attachment:fixed;
+	background-size:cover;
+}
+
